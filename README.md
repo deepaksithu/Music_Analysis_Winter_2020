@@ -1,5 +1,5 @@
-# :clipboard: Project Title -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
-_Project Title is a template for a data science project README. The 'what' of the project is concisely described here._ 
+# :clipboard: Music Analysis Winter 2020 Project -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
+This is an exploration of albums I've listened to over the Winter 2020 quarter.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -38,11 +38,16 @@ include code samples when relevant
 _Finally, complete this section with another, more contextualized explanation of the broader 'why' of the project, as well as limitations and further possibilities for it._
 
 ## Issues
-- _this is a list of issues_
-- _and bugs in the project_
-- _as well as a to-do list_
-- _for what needs to be done_
-- _and what steps need to be taken_
+- set ratings to a categorical variable, or set the half number to .5s for ease of calculations
+- use the wikipedia api to get genre information for each artist
+- find the most listened to genres
+- find the average rating per genre
+- find the distribution of ratings per genre
+- find the overall distribution of ratings
+- potentially also get release year informaiton from the wikipedia api
+- make lists of repeat albums and figure out whether to use the more recent rating or the highest rating
+- find the number of unique albums listened to this year
+- for artists where i've listened to a high number of albums, find the distribution of ratings
 
 ## Contribute
 Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
