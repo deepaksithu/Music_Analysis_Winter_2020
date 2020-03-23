@@ -48,6 +48,7 @@ _Finally, complete this section with another, more contextualized explanation of
 - make lists of repeat albums and figure out whether to use the more recent rating or the highest rating
 - find the number of unique albums listened to this year
 - for artists where i've listened to a high number of albums, find the distribution of ratings
+- try to pull release date info from wiki api
 
 ## Contribute
 Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
