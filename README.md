@@ -49,6 +49,7 @@ _Finally, complete this section with another, more contextualized explanation of
 - find the number of unique albums listened to this year
 - for artists where i've listened to a high number of albums, find the distribution of ratings
 - try to pull release date info from wiki api
+- potentially make a separate repository with a guide to the wikipedia library
 
 ## Contribute
 Any bugs, requests, feedback, pull requests etc. are welcome! For any major changes, please open an issue first to discuss your ideas.
