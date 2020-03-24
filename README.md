@@ -60,6 +60,7 @@ Any bugs, requests, feedback, pull requests etc. are welcome! For any major chan
 - https://stackabuse.com/getting-started-with-pythons-wikipedia-api/
 - https://pypi.org/project/wikipedia/
 - https://wikipedia.readthedocs.io/en/latest/code.html#api
+- https://www.mediawiki.org/wiki/API:Tutorial
 
 ## Contact
 You can get in touch with me on LinkedIn [![LinkedIn Link](https://img.shields.io/badge/Connect-deepaksithu-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
