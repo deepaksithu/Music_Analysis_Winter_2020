@@ -1,5 +1,5 @@
 # :clipboard: Music Analysis Winter 2020 Project -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
-Just a relaxed-fit exploration of albums I've listened to over the Winter 2020 quarter.
+A simple exploration of albums I've listened to over the Winter 2020 quarter using the `wikipedia` library.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -23,6 +23,7 @@ This code depends on the following libraries:
 2. `numpy`
 3. `matplotlib.pyplot`
 4. `seaborn`
+5. `wikipedia`
 
 In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
 
