@@ -25,7 +25,7 @@ This code depends on the following libraries:
 4. `seaborn`
 5. `wikipedia`
 
-In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `name_of_data_file.csv`.
+In addition to these, the Jupyter Notebook assumes that the data set from it's source has been downloaded, extracted, and saved as `music_winter_2020.csv`.
 
 The Binder badge above can be used to explore an executable environment for this project. _Note that this template badge links to the Google homepage._
 
