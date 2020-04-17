@@ -1,5 +1,5 @@
 # :clipboard: Music Analysis Winter 2020 Project -  [![Binder](https://mybinder.org/badge_logo.svg)](https://www.google.com)
-A simple exploration of albums I've listened to over the Winter 2020 quarter using the `wikipedia` library.
+An exploration of albums I've listened to over the Winter 2020 quarter using the `wikipedia` library.
 
 ## Table of Contents
 - [Overview](#overview)
